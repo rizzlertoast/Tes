@@ -1,14 +1,14 @@
 {
-  "name": "AFK Bot",
+  "name": "hihihi",
   "bot-account": {
     "username": "PerzaanLive",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "example.aternos.me",
-    "port": 92591,
-    "version": "1.21.1"
+    "ip": "raid.mcsh.io",
+    "port": 25565,
+    "version": "1.21.11"
   },
   "position": {
     "enabled": true,
